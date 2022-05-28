@@ -1,0 +1,41 @@
+# robots.txt for Central dos Catálogos
+# robots.txt for Central dos Catálogos
+# robots.txt for http://www.centraldoscatalogos.com.br/
+# robots.txt for http://centraldoscatalogos.com.br/
+
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+
+User-agent: *
+Disallow: /sys/
+
+User-agent: Googlebot 
+Disallow: /sys/
+
+User-agent: *
+Disallow: /site/_image/
+
+User-agent: Googlebot
+Disallow: /site/_image/
+
+User-agent: *
+Disallow: /site/imagem/
+
+User-agent: Googlebot 
+Disallow: /site/imagem/
+
+User-agent: *
+Disallow: /site/estilo/
+
+User-agent: Googlebot 
+Disallow: /site/estilo/
+
+User-agent: *
+Disallow: /site/script/
+
+User-agent: Googlebot 
+Disallow: /site/script/
